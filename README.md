@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column;">
+<div alighn="center" style="display: flex; flex-direction: column;">
     <h1 style="display: inline; margin: 10 auto; padding: 1vw; border: 0.02em solid rgb(238, 0, 255);">Welcome to my profile</h1>
     <h2 style="display: inline; margin: 10 auto; padding: 1vw; border: 0.02em solid rgb(238, 0, 255);">My name <a style="color: orchid">Ｉｖａｎ　宇ーイ</a></h2>
     <h3 style="display: inline; margin: 10 auto; padding: 1vw; border: 0.02em solid rgb(238, 0, 255);">Frontend developer from Russia</h3>
