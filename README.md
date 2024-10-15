@@ -45,15 +45,6 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/steam.svg" />
     </div> -->
 </div>
-    .frontend-stack-images>*,
-    .backend-stack-images>*,
-    .other-stack-images>*,
-    .hobbies>* {
-        margin: auto 2vw auto;
-        height: 32px;
-        width: 32px;
-    }
-</style>
 <style>
     .frontend-stack-images,
     .backend-stack-images,
