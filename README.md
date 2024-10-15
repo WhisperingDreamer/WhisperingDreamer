@@ -21,7 +21,6 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" />
     </div>
-
     <div style="display: inline;
     margin: 10 auto;
     padding: 1vw;
@@ -35,7 +34,6 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postgresql.svg" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mysql.svg" />
     </div>
-
     <div style="display: inline;
     margin: 10 auto;
     padding: 1vw;
@@ -43,12 +41,10 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/unity.svg" />
     </div>
-
     <!-- <div class="hobbies">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/steam.svg" />
     </div> -->
 </div>
-
     .frontend-stack-images>*,
     .backend-stack-images>*,
     .other-stack-images>*,
@@ -58,7 +54,6 @@
         width: 32px;
     }
 </style>
-
 <style>
     .frontend-stack-images,
     .backend-stack-images,
@@ -67,7 +62,6 @@
         display: flex;
         border: 0;
     }
-
     .frontend-stack-images>*,
     .backend-stack-images>*,
     .other-stack-images>*,
