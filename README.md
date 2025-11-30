@@ -18,4 +18,9 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" style="margin: auto 2vw auto; height: 5vh; width: auto;" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/unity.svg" style="margin: auto 2vw auto; height: 5vh; width: auto;" />
     </div>
+    <h2 style="display: inline; margin: 10 auto; padding: 1vw; border: 0.02em solid rgb(238, 0, 255);"> My contacts</h2>
+    <div style="border: 0;" class="contacts">
+        <p>Telegram: @Navia_best</p>
+        <p>Phone: +7 906 624 94 84</p>
+    </div>
 </div>
